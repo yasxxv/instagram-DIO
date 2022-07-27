@@ -12,6 +12,10 @@ Nesse projeto foram utilizados conceitos de CSS utilizando Flexbox, uma metodolo
 
 - HTML5
 - CSS3
+
+### 📅 Data do Projeto:
+
+21 Jul 2022
  
  ---------------------------
 
